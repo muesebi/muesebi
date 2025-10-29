@@ -16,13 +16,13 @@ I value writing maintainable code, learning new technologies, and collaborating 
 ## ⚙️ Skills
 
 💻 **Languages:**</br>
-[![My Skills](https://skillicons.dev/icons?i=js,py,ts,java,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ts,java,html,css)](https://skillicons.dev)</br>
 🚀 **Frameworks:**</br>
-[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)</br>
 🗄️ **Databases:**</br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)</br>
 🧩 **Tools & Other:**</br>
-[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,bash,git,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,bash,git,matlab)](https://skillicons.dev)</br>
 
 ---
 
