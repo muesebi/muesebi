@@ -2,9 +2,7 @@
 
 🎯 **Aspiring Full-Stack Developer** | Open to **Data Science Projects**  
 
----
-
-## 🧠 About Me
+## About Me
 
 I'm a passionate developer with a growing interest in both **web development** and **data-driven solutions**.  
 My goal is to build clean, scalable applications while continuously exploring the intersection between **software engineering** and **data science**.  
@@ -13,7 +11,7 @@ I value writing maintainable code, learning new technologies, and collaborating 
 
 ---
 
-## ⚙️ Skills
+## Skills
 
 💻 **Languages:**</br>
 [![My Skills](https://skillicons.dev/icons?i=js,py,ts,java,html,css)](https://skillicons.dev)</br>
@@ -26,7 +24,7 @@ I value writing maintainable code, learning new technologies, and collaborating 
 
 ---
 
-## 🌟 Projects / Highlights
+## Projects / Highlights
 
 Here are some of my recent or notable projects:
 
