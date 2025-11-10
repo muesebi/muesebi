@@ -31,7 +31,7 @@ Here are some of my recent or notable projects:
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | 📊 **[findash](#)** | Dashboard to visualize private financial data | TypeScript, React, Node.js, MySQL |
-| 🍔**[frizen](#)** | Meal planning app | React Native, Typescript, Python, MySQL |
+| 🍔 **[frizen](#)** | Meal planning app | React Native, Typescript, Python, MySQL |
 | ✈️ **[Webscrapper](#)** | A Project to scrap flightinformation data from a specific website | Python, MySQL |
 
 
