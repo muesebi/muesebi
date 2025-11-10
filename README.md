@@ -30,9 +30,9 @@ Here are some of my recent or notable projects:
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧮 **[Project Name 1](#)** | Short description of what it does or solves | TypeScript, React, Node.js |
-| 📊 **[Project Name 2](#)** | Data-focused project or analysis | Python, Pandas, Matplotlib |
-| ⚡ **[Project Name 3](#)** | Another highlight | [...] |
+| 📊 **[findash](#)** | Dashboard to visualize private financial data | TypeScript, React, Node.js, MySQL |
+| 🍔**[frizen](#)** | Meal planning app | React Native, Typescript, Python, MySQL |
+| ✈️ **[Webscrapper](#)** | A Project to scrap flightinformation data from a specific website | Python, MySQL |
 
 
 
